@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/basic-crypto-profit-calculator/static/css/main.c9d1c0f3.chunk.css",
+    "main.js": "/basic-crypto-profit-calculator/static/js/main.95361314.chunk.js",
+    "main.js.map": "/basic-crypto-profit-calculator/static/js/main.95361314.chunk.js.map",
+    "runtime-main.js": "/basic-crypto-profit-calculator/static/js/runtime-main.4a259289.js",
+    "runtime-main.js.map": "/basic-crypto-profit-calculator/static/js/runtime-main.4a259289.js.map",
+    "static/js/2.e486ab03.chunk.js": "/basic-crypto-profit-calculator/static/js/2.e486ab03.chunk.js",
+    "static/js/2.e486ab03.chunk.js.map": "/basic-crypto-profit-calculator/static/js/2.e486ab03.chunk.js.map",
+    "index.html": "/basic-crypto-profit-calculator/index.html",
+    "static/css/main.c9d1c0f3.chunk.css.map": "/basic-crypto-profit-calculator/static/css/main.c9d1c0f3.chunk.css.map",
+    "static/js/2.e486ab03.chunk.js.LICENSE.txt": "/basic-crypto-profit-calculator/static/js/2.e486ab03.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/basic-crypto-profit-calculator/static/media/background.6b894f07.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a259289.js",
+    "static/js/2.e486ab03.chunk.js",
+    "static/css/main.c9d1c0f3.chunk.css",
+    "static/js/main.95361314.chunk.js"
+  ]
+}
